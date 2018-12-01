@@ -1,0 +1,4 @@
+## Interface: 80000
+## Title: MisdirectHelper
+## Author: Stanzilla
+code.lua
